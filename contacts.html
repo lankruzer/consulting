@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>In Depth | Контакты</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=cyrillic" rel="stylesheet">
+		
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		
+	</head>
+	
+	<body>
+		<header>
+			<div class="container">
+				<a href="index.html" class="logo">
+					<img src="img/icon-header-logo.png" width="217" height="40" alt="In Depth">
+				</a>
+				<nav>
+					<ul>
+						<li><a href="about.html">О компании</a></li>
+						<li><a href="researchs.html">Исследования</a></li>
+						<li><a href="work-experience.html">Опыт работы</a></li>
+						<li class="active"><a>Контакты</a></li>
+					</ul>
+				</nav>
+				<div class="link-header-contacts">
+					<span>Свяжитесь с нами:</span>
+					<a href="tel:+74955445868" class="link-header-phone">+7 (495) 544-58-68</a>
+				</div>
+				
+				<button class="btn-mobile-menu"><span></span>Мобильное меню</button>
+			</div>
+		</header>
+		
+		<main>
+			<section class="screen inner-page-title with-bg">
+				<div class="container">
+					<h1>Контакты</h1>
+					<ul class="breadcrumbs">
+						<li><a href="index.html">Главная</a></li>
+						<li><span>Контакты</span></li>
+					</ul>
+				</div>
+			</section>
+			<div class="screen screen-inner screen-contacts">
+				<div class="container">
+					<div class="blocks">
+						<div class="column-3">
+							<div class="with-icon">
+								<span class="icon icon-email"></span>
+								<span class="title-block">Наш e-mail:</span>
+								<a href="mailto:info@indepth.ru">info@indepth.ru</a>
+							</div>
+						</div>
+						<div class="column-3">
+							<div class="with-icon">
+								<span class="icon icon-tel"></span>
+								<span class="title-block">Наши телефоны:</span>
+								<a href="tel:+74955445868">+7 (495) 544-58-68</a>
+							</div>
+						</div>
+						<div class="column-3">
+							<div class="with-icon">
+								<span class="icon icon-address"></span>
+								<span class="title-block">Наш адрес:</span>
+								<address>
+									105005, г. Москва, 
+									Посланников пер. 5, стр. 11
+								</address>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="screen screen-map">
+				<div class="container">
+					<ul class="social-links">
+						<li><a class="link-vk" href="#">VK</a></li>
+						<li><a class="link-im" href="#">IM</a></li>
+						<li><a class="link-fb" href="#">FB</a></li>
+					</ul>
+				</div>
+				
+				<div class="map" id="map"></div>
+			</div>
+		</main>
+		
+		<div class="block-form container">
+			<div class="form-info clearfix">
+				<span class="form-title">Отправьте запрос на исследование</span>
+				<p>В кратчайшие сроки мы отправим Вам коммерческое предложение, в котором будут изложены основные методы и решения поставленных задач, а также сроки и стоимость предлагаемого исследования.</p>
+			</div>
+			<form action="#" method="post">
+				<div class="form-inputs">
+					<input type="text" name="name" placeholder="Контактное лицо">
+					<input type="tel" name="phone" placeholder="Ваш номер телефона">
+					<input type="email" name="email" placeholder="Ваш e-mail">
+				</div>
+				<textarea name="message" placeholder="Введите сообщение"></textarea>
+				<button class="btn" type="submit">Отправить</button>
+			</form>
+		</div>
+		
+		<footer>
+			<div class="container">
+				<div class="blocks">
+					<div class="column-3 footer-contact">
+						<a href="tel:+74955445868">+7 (495) 544-58-68</a>
+					</div>
+					<div class="column-3 footer-cotnact">
+						<address>
+							105005, г. Москва,<br> Посланников пер. 5, стр. 11
+						</address>
+					</div>
+					<div class="column-3 footer-contact">
+						<a href="mailto:info@indepth.ru">info@indepth.ru</a>
+					</div>
+				</div>
+			</div>
+		</footer>
+						
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIXgE5vpHJGZc3tXeyJAO_XTilhWXqCr0"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

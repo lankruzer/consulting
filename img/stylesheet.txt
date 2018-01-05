@@ -1,0 +1,179 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-adventures-1 {
+    width: 90px;
+    height: 90px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-adventures-2 {
+    width: 90px;
+    height: 90px;
+    background-position: -105px -5px;
+}
+
+.sprite-icon-adventures-3 {
+    width: 90px;
+    height: 90px;
+    background-position: -205px -5px;
+}
+
+.sprite-icon-contacts-1 {
+    width: 60px;
+    height: 60px;
+    background-position: -305px -5px;
+}
+
+.sprite-icon-contacts-2 {
+    width: 60px;
+    height: 60px;
+    background-position: -375px -5px;
+}
+
+.sprite-icon-contacts-3 {
+    width: 60px;
+    height: 60px;
+    background-position: -445px -5px;
+}
+
+.sprite-icon-contacts-4 {
+    width: 60px;
+    height: 60px;
+    background-position: -515px -5px;
+}
+
+.sprite-icon-contacts-5 {
+    width: 60px;
+    height: 60px;
+    background-position: -585px -5px;
+}
+
+.sprite-icon-contacts-6 {
+    width: 60px;
+    height: 60px;
+    background-position: -655px -5px;
+}
+
+.sprite-icon-contacts-im {
+    width: 19px;
+    height: 19px;
+    background-position: -725px -5px;
+}
+
+.sprite-icon-contacts-mail {
+    width: 22px;
+    height: 16px;
+    background-position: -754px -5px;
+}
+
+.sprite-icon-contacts-map-logo {
+    width: 192px;
+    height: 88px;
+    background-position: -786px -5px;
+}
+
+.sprite-icon-contacts-mark {
+    width: 21px;
+    height: 30px;
+    background-position: -988px -5px;
+}
+
+.sprite-icon-contacts-phone {
+    width: 23px;
+    height: 23px;
+    background-position: -1019px -5px;
+}
+
+.sprite-icon-contacts-vk {
+    width: 25px;
+    height: 14px;
+    background-position: -1052px -5px;
+}
+
+.sprite-icon-contnacts-fb {
+    width: 12px;
+    height: 21px;
+    background-position: -1087px -5px;
+}
+
+.sprite-icon-footer-mail {
+    width: 46px;
+    height: 46px;
+    background-position: -1109px -5px;
+}
+
+.sprite-icon-footer-mark {
+    width: 46px;
+    height: 46px;
+    background-position: -1165px -5px;
+}
+
+.sprite-icon-footer-phone {
+    width: 46px;
+    height: 46px;
+    background-position: -1221px -5px;
+}
+
+.sprite-icon-header-phone {
+    width: 13px;
+    height: 13px;
+    background-position: -1277px -5px;
+}
+
+.sprite-icon-research-1 {
+    width: 40px;
+    height: 40px;
+    background-position: -1300px -5px;
+}
+
+.sprite-icon-research-2 {
+    width: 40px;
+    height: 40px;
+    background-position: -1350px -5px;
+}
+
+.sprite-icon-research-3 {
+    width: 40px;
+    height: 40px;
+    background-position: -1400px -5px;
+}
+
+.sprite-icon-research-4 {
+    width: 40px;
+    height: 23px;
+    background-position: -1450px -5px;
+}
+
+.sprite-icon-research-5 {
+    width: 30px;
+    height: 40px;
+    background-position: -1500px -5px;
+}
+
+.sprite-icon-research-6 {
+    width: 32px;
+    height: 40px;
+    background-position: -1540px -5px;
+}
+
+.sprite-icon-research-7 {
+    width: 36px;
+    height: 40px;
+    background-position: -1582px -5px;
+}
+
+.sprite-icon-research-8 {
+    width: 40px;
+    height: 39px;
+    background-position: -1628px -5px;
+}
+
+.sprite-icon-research-9 {
+    width: 40px;
+    height: 40px;
+    background-position: -1678px -5px;
+}
